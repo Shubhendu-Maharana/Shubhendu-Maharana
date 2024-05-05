@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhendu-Maharana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, JAVA, CSS, JavaScript
+- 🌱 I’m currently learning C++, JAVA, CSS, JavaScript, MERN Stack ,React Native
 - 💞️ I’m looking to collaborate on Android OS Development 
 - 📫 How to reach me (Adding soon...)
 
