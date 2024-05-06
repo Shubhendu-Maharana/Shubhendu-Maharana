@@ -7,3 +7,39 @@
 - ✔️ Excited to accomplish great things!
 - 📫 You can reach me by my email address 'maharanasubhendu3@@gmail.com'.
 - 📫 Lets Connect through Telegram.
+
+<a href="https://t.me/ShubhenduXD">
+  <img align="left" alt="Shubhendu's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
+
+<br><br>
+
+### 💻 Current working environments
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
+[![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
+[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+
+### 💻 Current Work Machine
+#### Infinix X3 Slim
+- Intel Core i3 12115U
+- Intel UHD Integrated GPU
+- 8GB LPDDR4X 4267MHz RAM
+- 512GB NVMe SSD
+
+
+### ⚙️ &nbsp;Shubhendu's GitHub Analytics
+<p align="center">
+<a href="https://github.com/shubhendu-maharana">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhendu-maharana&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhendu-maharana&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
+<br>
+
+[![shubhendu-maharana's GitHub | Languages Over Time](https://stats.quine.sh/shubhendu-maharana/languages-over-time?theme=dark)](https://quine.sh)
+
+<br>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=shubhendu-maharana&style=flat-square"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshubhendu-maharana&longCache=true"/>
+</p>
