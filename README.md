@@ -39,6 +39,10 @@
 [![shubhendu-maharana's GitHub | Languages Over Time](https://stats.quine.sh/shubhendu-maharana/languages-over-time?theme=dark)](https://quine.sh)
 
 <br>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66570738b998f3b3c7c108e3?variant=dark)](https://roadmap.sh)
+
+<br>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shubhendu-maharana&style=flat-square"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshubhendu-maharana&longCache=true"/>
