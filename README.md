@@ -12,6 +12,9 @@
 <a href="https://t.me/ShubhenduXD">
   <img align="left" alt="Shubhendu's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
+<a href="https://www.linkedin.com/in/subhendu-maharana/">
+  <img align="left" alt="Shubhendu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a>
 
 <br><br>
 
