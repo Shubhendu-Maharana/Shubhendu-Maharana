@@ -20,7 +20,7 @@
 
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
-[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+[![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 
 ### 💻 Current Work Machine
 #### Infinix X3 Slim
