@@ -4,7 +4,7 @@
 - 🌱 I did my BCA at Rajiv Memorial Institute of Technology, Berhampur, Odisha, India.
 - 👀 Languages/Tools I know are C,, C++, Java, Python, MongoDB, ExpressJS, ReactJS, NodeJS, React-Native.
 - 💞️ I'm a dedicated enthusiast with a strong passion for Android App Development, Cloud Computing, System Development, and Web Development. I thrive on continuous learning and exploring the depths of these domains.
-- 📱 Devices I own are Redmi Note 8(Ginkgo) and Infinix X3 Slim.
+- 📱 Devices I own are Samsung Galaxy F34 5G and Infinix X3 Slim.
 - ✔️ Excited to accomplish great things!
 - 📫 You can reach me by my email address 'maharanasubhendu3@@gmail.com'.
 - 📫 Lets Connect through Telegram.
@@ -20,7 +20,7 @@
 
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 ### 💻 Current Work Machine
 #### Infinix X3 Slim
