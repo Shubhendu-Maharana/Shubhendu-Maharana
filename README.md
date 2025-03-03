@@ -26,7 +26,7 @@
 #### Lenovo Ideapad Slim 3i
 - Intel Core i3 1215U 4.4GHz
 - Intel UHD Integrated GPU
-- 8GB DDR4 43200MHz RAM
+- 8GB DDR4 3200MHz RAM
 - 512GB NVMe PCIe Gen-3 SSD
 
 
