@@ -23,11 +23,11 @@
 [![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 
 ### 💻 Current Work Machine
-#### Infinix X3 Slim
+#### Lenovo Ideapad Slim 3i
 - Intel Core i3 1215U 4.4GHz
 - Intel UHD Integrated GPU
-- 8GB LPDDR4X 4267MHz RAM
-- 512GB NVMe SSD
+- 8GB DDR4 43200MHz RAM
+- 512GB NVMe PCIe Gen-3 SSD
 
 
 ### ⚙️ &nbsp;Shubhendu's GitHub Analytics
