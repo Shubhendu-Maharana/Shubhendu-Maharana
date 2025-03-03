@@ -37,13 +37,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhendu-maharana&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
-<br>
-
-[![shubhendu-maharana's GitHub | Languages Over Time](https://stats.quine.sh/shubhendu-maharana/languages-over-time?theme=dark)](https://quine.sh)
 
 <br>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66570738b998f3b3c7c108e3?variant=dark)](https://roadmap.sh)
 
 <br>
 <p align="center">
