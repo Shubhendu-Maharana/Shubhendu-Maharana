@@ -4,7 +4,7 @@
 - 🌱 I did my BCA at Rajiv Memorial Institute of Technology, Berhampur, Odisha, India.
 - 👀 Languages/Tools I know are C,, C++, Java, Python, MongoDB, ExpressJS, ReactJS, NodeJS, React-Native.
 - 💞️ I'm a dedicated enthusiast with a strong passion for Android App Development, Cloud Computing, System Development, and Web Development. I thrive on continuous learning and exploring the depths of these domains.
-- 📱 Devices I own are Redmi Note 10(sunny/mojito) and Infinix X3 Slim.
+- 📱 Devices I own are Samsung Galaxy F34 and Lenovo Ideapad Slim 3i.
 - ✔️ Excited to accomplish great things!
 - 📫 You can reach me by my email address 'maharanasubhendu3@@gmail.com'.
 - 📫 Lets Connect through Telegram.
